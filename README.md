@@ -58,7 +58,7 @@ npm start
 
 
 4. **Access the Platform:**
-Open your web browser and go to https://samarth-here.github.io/stutorr to access Stutor.
+Open your web browser and go to  [ https://parthsahay24.github.io/STUTOR/ ] to access Stutor.
 
 ## Contributing
 
