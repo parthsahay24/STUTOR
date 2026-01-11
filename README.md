@@ -67,8 +67,8 @@ We welcome contributions from the community to enhance Stutor. If you have any i
 ## Support
 
 For any questions or assistance, please contact our support team at [support@stutor.com](mailto:support@stutor.com).
-TEAM STUTOR- 
-SAMARTH KUMAR
-PARTH SAHAY
-ANIKET KUMAR
-SAHIL KUMAR
+## TEAM STUTOR
+**PARTH SAHAY
+**SAMARTH KUMAR
+**ANIKET KUMAR
+**SAHIL KUMAR
